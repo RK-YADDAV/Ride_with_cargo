@@ -9,7 +9,7 @@ This repository contains the code for a Full stack car rental website with 3 mod
 Clone Rent a Ride
 
 ```bash
-[https://github.com/RK-YADDAV](https://github.com/RK-YADDAV/Ride_with_cargo)
+https://github.com/RK-YADDAV/Ride_with_cargo
 ```
 
 Install node modules
